@@ -17,7 +17,6 @@ on:
 jobs:
   # This workflow contains a single job called "build"
   build:
-    build:
 
     # se ejecuta en Ubuntu Linux
     runs-on: ubuntu-latest
